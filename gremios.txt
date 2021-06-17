@@ -74,7 +74,11 @@ no enviar direcciones ni numeros de telefonos /////en el chat
 
 //////////////////////////////////////Pedro
 
+-///////Proceso completo hasta finalizacion
 
+https/////odoo
+
+actualizacion de o creacion de presupuesto
 
 //////////////////hacer html q me pidio pedro
 
@@ -82,7 +86,7 @@ notificaciones cundo se cambie la fecha de la so o cambie el presupuesto o se en
 
 new state **************/////// actualizar cuando se contrate y cuando se finalice;
 
-/////Probar cuando un producto asignado en este caso fontaneria y a una solicitu yo le agrego mas de un producto me llega  de todas formas.
+/////Probar cuando un producto asignado en este caso fontaneria y a una solicitud yo le agrego mas de un producto me llega  de todas formas.
 
 devoluciones
 
