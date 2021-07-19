@@ -133,6 +133,11 @@ o
 
 
 
+/////////////////Gremios mobile web
+
+
+screen portrait for web
+geolocalization for web
 
 
 
@@ -141,13 +146,3 @@ o
 
 
 
-
-////////////////////////////Universidades
-
-salamaca
-
-
-alicante-------------Universidad
-
-
-masteresoficiales@ehu.eus
