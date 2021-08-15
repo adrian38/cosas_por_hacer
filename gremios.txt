@@ -109,6 +109,7 @@ como haria para los precios promedio quisiera q los calculara enz tiempo y los g
 
 ///costos extras notificaciones///////debe salir
 
+//notificaciones en stripe error en la funcion verificar con Pedro
 
 /////////////////////////////////////////////
 
