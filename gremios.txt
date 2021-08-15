@@ -80,7 +80,7 @@ https/////odoo
 
 actualizacion de so creacion de presupuesto///////listo
 
-//////////////////hacer html q me pidio pedro
+//////////////////hacer html q me pidio pedro//esta listo queda ponerlo en odoo
 
 notificaciones cundo se cambie la fecha //////listo
 notificaciones de la so o cambie el presupuesto o se envie costos extras//////crear nuevas lineas positivas o negativas (restar con valor anterior) ((crear campo de notificacion para cuando la apk este cerrada))//listo
@@ -95,7 +95,11 @@ devoluciones//////listo
 
 denuncia////////listo 
 
-calificacion del proveedor
+calificacion del proveedor//listo
+
+campo de documentos del proveedor
+
+como haria para los precios promedio quisiera q los calculara enz tiempo y los guardara donde?////nuevo campo en una po
 
 ///////////como se pasa esto como un arreglo 'product_tmpl_id':39/////nada buscar en python o agregar uno por uno.
 
